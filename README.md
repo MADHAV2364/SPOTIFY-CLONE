@@ -11,7 +11,7 @@ His tutorials provided a strong foundation in web development and helped me buil
 I highly recommend his course to anyone looking to start their journey into coding!
 
 TIPS:
-1. Inside songs folder paste more than 2 song in each of its folder in it to make the interface work properly.
+Inside songs folder paste more than 2 song in each of its folder in it to make the interface work properly.
 
 WORKING:
 The songs are directly uploaded to the web when they are pasted in every folder of song folder . 
